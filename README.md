@@ -1,6 +1,6 @@
 # MIT_6.009_Lab_Materials
-# Class taken at MIT in Sophomore Year (Fall 2020)
-# All Class Lab Assignments encompassing the following topics:
+Class taken at MIT (Fall 2020)
+All Class Lab Assignments encompassing the following topics:
 
 # Lab 0: "Audio Processing"
 - In this lab, I will examine the effects of various kinds of manipulations of audio represented in this form
